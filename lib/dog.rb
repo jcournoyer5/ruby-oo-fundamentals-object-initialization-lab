@@ -3,7 +3,7 @@ class Dog
   def initialize(name, breed)
     @name = name
     @breed = breed(a, b="Mutt")
-    puts "#{breed}"
+    puts "#{Mutt}"
   end
 
   def name
