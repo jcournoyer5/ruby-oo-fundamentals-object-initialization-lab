@@ -13,3 +13,8 @@ class Dog
     puts @breed
   end
 end
+
+#def class_method(self, arg=None):
+ #       if arg is None:
+  #           arg = self.value
+   #     return arg
