@@ -9,7 +9,7 @@ class Dog
    puts @name
   end
   
-  def breed(a=Mutt)
+  def breed(a)
     puts @breed
   end
 end
