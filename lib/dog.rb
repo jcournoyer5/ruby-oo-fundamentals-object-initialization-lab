@@ -10,7 +10,7 @@ class Dog
   end
   
   def breed
-   purs @breed
+   puts @breed
   end
 end
 
